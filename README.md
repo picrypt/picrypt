@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning as a beginner
 - 💞️ I’m looking to collaborate on creating application simple to operate on mobile devices but robust to generate relevant financial reports for small and medium scale enterprises in developing economies as well as applications that ensure information equality, accountability, transparency, trust and ownership 
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I'm a chanllengely motivated person
 
 <!---
